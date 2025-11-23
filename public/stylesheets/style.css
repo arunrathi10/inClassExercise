@@ -15,3 +15,13 @@ button {
   border: none;
   cursor: pointer;
 }
+
+
+.output-box {
+  margin-top: 25px;
+  padding: 18px;
+  border: 1px solid #ddd;
+  background: #fafafa;
+  border-radius: 8px;
+  font-size: 18px;    
+}
